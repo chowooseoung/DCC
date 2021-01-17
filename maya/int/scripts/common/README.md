@@ -7,4 +7,4 @@ e.x.
 D:\pipeline\inhouse\DCC\maya\int\scripts\common
 ```
 
-define rea-packages/int/rez-inhouse
+define rez-packages/int/rez-inhouse

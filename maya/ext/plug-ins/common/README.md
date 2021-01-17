@@ -9,4 +9,4 @@ D:\pipeline\inhouse\DCC\maya\ext\plug-ins\conmon\{plug-ins2}
 D:\pipeline\inhouse\DCC\maya\ext\plug-ins\conmon\{plug-ins3}
 ```
 
-define rea-packages/int/rez-inhouse
+define rez-packages/int/rez-inhouse

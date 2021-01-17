@@ -9,4 +9,4 @@ D:\pipeline\inhouse\DCC\maya\int\modules\animation\{module2}
 D:\pipeline\inhouse\DCC\maya\int\modules\animation\{module3}
 ```
 
-define rea-packages/int/rez-inhouse
+define rez-packages/int/rez-inhouse

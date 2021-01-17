@@ -9,4 +9,4 @@ D:\pipeline\inhouse\DCC\maya\int\plug-ins\rigging\{plug-ins2}
 D:\pipeline\inhouse\DCC\maya\int\plug-ins\rigging\{plug-ins3}
 ```
 
-define rea-packages/int/rez-inhouse
+define rez-packages/int/rez-inhouse

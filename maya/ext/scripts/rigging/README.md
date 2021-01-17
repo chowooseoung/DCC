@@ -7,4 +7,4 @@ e.x.
 D:\pipeline\inhouse\DCC\maya\ext\scripts\rigging
 ```
 
-define rea-packages/int/rez-inhouse
+define rez-packages/int/rez-inhouse

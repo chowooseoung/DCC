@@ -9,4 +9,4 @@ D:\pipeline\inhouse\DCC\maya\int\modules\common\{module2}
 D:\pipeline\inhouse\DCC\maya\int\modules\common\{module3}
 ```
 
-define rea-packages/int/rez-inhouse
+define rez-packages/int/rez-inhouse

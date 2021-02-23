@@ -4,3 +4,6 @@
 [submodule "cmt"]
 	path = maya/ext/modules/rigging/cmt
 	url = git@github.com:chadmv/cmt.git
+[submodule "lego"]
+	path = maya/int/modules/rigging/lego
+	url = git@github.com:legomachine/lego.git

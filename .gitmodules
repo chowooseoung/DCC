@@ -1,9 +1,9 @@
-[submodule "cwsmt"]
+[submodule "maya/int/modules/rigging/cwsmt"]
 	path = maya/int/modules/rigging/cwsmt
 	url = git@github.com:chowooseoung/cwsmt.git
-[submodule "cmt"]
+[submodule "maya/ext/modules/rigging/cmt"]
 	path = maya/ext/modules/rigging/cmt
 	url = git@github.com:chadmv/cmt.git
-[submodule "lego"]
-	path = maya/int/modules/rigging/lego
-	url = git@github.com:legomachine/lego.git
+[submodule "maya/int/modules/rigging/mbox"]
+	path = maya/int/modules/rigging/mbox
+	url = git@github.com:chowooseoung/mbox.git

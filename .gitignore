@@ -128,6 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+**/Ziva-VFX-Maya-Module
 **/SHAPES/
 **/studioLibrary/
 **/CharcoalEditor2/
